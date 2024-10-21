@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">This project aims to achieve a Youtube Client on the new OpenHarmony system.<br>The objective is to bring youtube to all OpenHarmony devices without any of the negatives like ads.</p>
+<p align="left">This project aims to achieve a Youtube Client on the new OpenHarmony system aswell as the already established Android and iOS systems.<br>The objective is to bring youtube to all devices without any of the negatives like ads.</p>
 
 ###
 
