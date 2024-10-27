@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">This project aims to achieve a Youtube Client on the new OpenHarmony system aswell as the already established Android and iOS systems.<br>The objective is to bring youtube to all devices without any of the negatives like ads.</p>
+<p align="left">OpenTube is a 3rd part YouTube client which focuses to bring YouTube to all 3 major OS platforms (OpenHarmony, Android and iOS)
+Project will start development in 2025</p>
 
 ###
 
