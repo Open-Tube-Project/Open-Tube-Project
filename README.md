@@ -39,6 +39,8 @@ Project will start development in 2025</p>
 
 ###
 
-<div align="left">
+<div align="center">
+  <a href="https://flutter.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  </a>
 </div>
