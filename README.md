@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">The OpenTube app will be written in the language ArkTS in support of Flutter</p>
+<p align="left">The OpenTube app will use Flutter for it's design</p>
 
 ###
 
