@@ -1,7 +1,7 @@
 <div align="center">
      <a href="https://github.com/Open-Tube-Project/OpenTube" target="_blank">
           </a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/OpenTube.png" width="4000" height="300" alt="logo"  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/opentube_.png" width="4000" height="300" alt="logo"  />
 </div>
 
 ###
