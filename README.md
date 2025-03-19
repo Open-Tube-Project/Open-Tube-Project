@@ -22,10 +22,10 @@
 
 <div align="center">
   <a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/1ot.jpeg" width="500" height="600" alt=""  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/1ot.jpeg" width="500" height="700" alt=""  />
   </a>
   <a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="500" height="600" alt=""  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="500" height="700" alt=""  />
   </a>
 </div>
 
