@@ -57,7 +57,7 @@ OpenTube will use Kotlin code for android development, Swift for iOS development
   <img src="https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png" height="40" alt="flutter logo"  />
   </a>
        <a href="https://kotlinlang.org/" target="_blank">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEztRV+bPPmAUf/mNoXeJ7DtQ2O8IvGlM/bUFt2iNvi4JfKpMfaTQvuwLPSKSf3CHfDOFO3WF9zaHsjdJrPiLp7mN4XsQWv5YRJEAAAACnRSTlMAe///UjdrbXsd5IkgSQAAALdJREFUKJF9ztEWgiAQRdFJKglJUVD//09jgIErtXrecy7QYIyd52lybl3XbfM+hH0/juM8zxv1GCo+iYYB0bcyWodlNuqdCtpvTAboMibNRu/yIwdpeNAV266vFhF3k1YTbOn2ooawmxSMsaVR0WhhbOnFImJK9ANFxw5FGXtVCw53qhYYZkZV/5Sxqu1UgUo8AopKPM8jYHo2a2ENmNvGtqjqlJldA7IiG6MBJU6cDjSixPVAfwDMkRto1AfGJQAAAABJRU5ErkJggg==" height="40" alt="flutter logo"  />
+  <img src="https://zakhcodelabs.com/wp-content/uploads/2020/08/icon-kotlin-1024.png" height="40" alt="flutter logo"  />
   </a>
       <a href="https://developer.apple.com/swift/" target="_blank">
   <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96.png" height="40" alt="flutter logo"  />
