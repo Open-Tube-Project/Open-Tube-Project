@@ -22,10 +22,10 @@
 
 <div align="center">
   <a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="300" height="500" alt=""  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/1ot.png" width="400" height="800" alt=""  />
   </a>
   <a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="300" height="500" alt=""  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="400" height="800" alt=""  />
   </a>
 </div>
 
@@ -34,8 +34,8 @@
 
 ###
 
-<p align="left">OpenTube is a 3rd part YouTube client which focuses to bring YouTube to all 3 major OS platforms (OpenHarmony, Android and iOS)
-Project will start development in 2025</p>
+<p align="left">OpenTube is a 3rd part YouTube client that focuses on bringing YouTube to all 3 major OS platforms (OpenHarmony, Android, and iOS)
+The project will start development in 2025</p>
 
 ###
 
