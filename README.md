@@ -43,12 +43,20 @@ The project will start development in 2025</p>
 
 ###
 
-<p align="left">The OpenTube app will use Flutter for it's design</p>
+<p align="left">The OpenTube app will use Flutter for its design and UI adaptability.
+OpenTube as an app will be written in Dart for the core video pulling mechanic.
+OpenTube will use Kotlin code for android development, Swift for iOS development and ArkTS for OpenHarmony app development.</p>
 
 ###
 
 <div align="left">
   <a href="https://flutter.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  </a>
+       <a href="https://dart.dev/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUoN9C14IjXPdhCSFfS5JiessHMj7dccHkg&s" height="40" alt="flutter logo"  />
+  </a>
+       <a href="https://flutter.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   </a>
 </div>
