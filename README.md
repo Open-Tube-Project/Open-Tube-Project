@@ -21,10 +21,12 @@
 </div>
 
 <div align="center">
-       </a>
-      <img href="https://github.com/Open-Tube-Project/OpenTube/blob/main/1ot.png" target="_blank"> width="51" height="36"  />
-      <img href="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" target="_blank"> width="51" height="36"  />
-          </a>
+  <a>
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="51" height="36" alt="telegram logo"  />
+  </a>
+  <a>
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="51" height="36" alt="discord logo"  />
+  </a>
 </div>
 
 
