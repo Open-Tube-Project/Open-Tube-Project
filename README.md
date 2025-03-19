@@ -47,9 +47,9 @@ The project will start development in 2025</p>
 
      
 <p align="center">OpenTube will use Dart for the overall video pulling mechanism but the app itself will be programmed in the native language of each system.
-OpenHarmony will use ArkTS
-Android uses Kotlin
-iOS will use Swift
+OpenHarmony will use ArkTS,
+Android uses Kotlin,
+iOS will use Swift.
 
 ###
 
