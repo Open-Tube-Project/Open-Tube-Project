@@ -54,9 +54,15 @@ OpenTube will use Kotlin code for android development, Swift for iOS development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   </a>
        <a href="https://dart.dev/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUoN9C14IjXPdhCSFfS5JiessHMj7dccHkg&s" height="40" alt="flutter logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png" height="40" alt="flutter logo"  />
   </a>
-       <a href="https://flutter.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+       <a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://iconduck.com/icons/102064/file-type-kotlin" height="40" alt="flutter logo"  />
+  </a>
+      <a href="https://developer.apple.com/swift/" target="_blank">
+  <img src="https://apple.fandom.com/wiki/Swift_Student_Challenge" height="40" alt="flutter logo"  />
+  </a>
+      <a href="https://developer.huawei.com/consumer/cn/arkts/" target="_blank">
+  <img src="https://developer.huawei.com/allianceCmsResource/resource/HUAWEI_Developer_VUE/images/Ark/overview-pathway/ArkTS-icon-gaoqing.png" height="40" alt="flutter logo"  />
   </a>
 </div>
