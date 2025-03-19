@@ -22,10 +22,10 @@
 
 <div align="center">
   <a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="51" height="36" alt="telegram logo"  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="300" height="500" alt=""  />
   </a>
   <a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="51" height="36" alt="discord logo"  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/2ot.png" width="300" height="500" alt=""  />
   </a>
 </div>
 
