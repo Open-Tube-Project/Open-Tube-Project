@@ -45,7 +45,7 @@ The project will start development in 2025</p>
 
 <p align="center">The OpenTube app will use Flutter for its design and UI adaptability.
 OpenTube as an app will be written in Dart for the core video pulling mechanic.
-OpenTube will use Kotlin code for android development, Swift for iOS development and ArkTS for OpenHarmony app development./p>
+OpenTube will use Kotlin code for android development, Swift for iOS development and ArkTS for OpenHarmony app development. /p>
 
 ###
 
