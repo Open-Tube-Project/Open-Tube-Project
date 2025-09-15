@@ -1,5 +1,5 @@
 <div align="center">
-     <a href="https://github.com/Open-Tube-Project/OpenTube" target="_blank">
+     <a href="https://github.com/Open-Tube-Project/OpenTube_readme" target="_blank">
           </a>
     <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/opentube_.png" width="4000" height="300" alt="logo"  />
 </div>
@@ -22,10 +22,10 @@
 
 <div align="center">
   <a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/opentube1.png" width="400" height="400" alt=""  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube_readme/blob/main/opentube1.png" width="400" height="400" alt=""  />
   </a>
   <a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/opentube2.png" width="400" height="400" alt=""  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube_readme/blob/main/opentube2.png" width="400" height="400" alt=""  />
   </a>
 </div>
 
