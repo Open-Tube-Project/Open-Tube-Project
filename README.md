@@ -1,7 +1,7 @@
 <div align="center">
      <a href="https://github.com/Open-Tube-Project/OpenTube_readme" target="_blank">
           </a>
-    <img src="https://github.com/Open-Tube-Project/OpenTube/blob/main/opentube_.png" width="4000" height="300" alt="logo"  />
+    <img src="https://github.com/Open-Tube-Project/OpenTube_readme/blob/main/opentube_.png" width="4000" height="300" alt="logo"  />
 </div>
 
 ###
@@ -58,7 +58,7 @@ iOS will use Swift.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   </a>
        <a href="https://dart.dev/" target="_blank">
-  <img src="https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png" height="40" alt="flutter logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/250px-Dart-logo.png" height="40" alt="flutter logo"  />
   </a>
        <a href="https://kotlinlang.org/" target="_blank">
   <img src="https://zakhcodelabs.com/wp-content/uploads/2020/08/icon-kotlin-1024.png" height="40" alt="flutter logo"  />
